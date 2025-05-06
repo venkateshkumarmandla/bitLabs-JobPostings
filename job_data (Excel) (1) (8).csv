@@ -1,0 +1,264 @@
+JobTitle,isSaved,MinimumExperience,MaximumExperience,MinSalary,MaxSalary,CreationDate,Description,EmployeeType,IndustryType,Location,MinimumQualification,Promote,Specialization,JobStatus,VisitorCount,job_url,SkillsRequired,ScreeningQuestions,job_recruiter_recruiter_id
+Software Test Engineer,no,0,2,1.4,3.3,5/6/2025,"<h4 style=""color: red;""><strong>Responsibilities:</strong></h4> 
+
+<ul> 
+<li>Partner with Product and Development teams to capture test case requirements</li> 
+<li>Plan, analyse, write & execute automated test scripts</li> 
+<li>Automate & carry out regression testing scripts using Java with playwright</li> 
+<li>Leverage automated test frameworks to build test suites</li> 
+<li>Investigate problems in software as a result of testing</li> 
+<li>Partner with QA analysts and software developers to find solutions</li> 
+<li>Execute cases, report defects, define severity and prioritize defects</li> 
+</ul> 
+
+<h4 style=""color: red;""><strong>Educational Qualification:</strong></h4> 
+
+<ul> 
+<li>Bachelor's degree in Computer Science, IT, or related fields</li> 
+<li>FRESHERS CAN ALSO APPLY</li> 
+</ul> 
+
+<h4 style=""color: red;""><strong>Skills & Experience:</strong></h4> 
+
+<ul> 
+<li>Hands-on automation experience in frameworks and scripting, preferably in Java with playwright, with the ability to define, design and implement robust, scalable, and high-quality test suites</li> 
+<li>Good knowledge of SQL concepts & Java</li> 
+<li>Sound understanding of automated test frameworks, like TestNG, RestAssured and Playwright</li> 
+<li>Good understanding of API testing both manual and automation</li> 
+<li>Enthusiastic about automating everything to help achieve true CI/CD</li> 
+</ul>",Full Time,IT,Chennai,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"Java, SQL",,20489
+Software Engineer,no,0,2,4,4.5,5/6/2025,"<h4 style=""color: red;""><strong>Job Responsibilities Include:</strong></h4> 
+
+<ul> 
+<li>Develop and debug source code which includes: 
+<ul> 
+<li>Write multi-threaded applications that run on embedded or Raspberry PI based systems</li> 
+<li>Interfaces with various peripheral devices; I/O boards, serial communication protocol</li> 
+<li>Requirements collection from internal, external clients and documentation</li> 
+<li>Design, development, optimize, performance tuning of custom applications</li> 
+<li>Unit testing and debugging of applications in various stages of development life cycle</li> 
+<li>Work collaboratively with peers in all the stages of development life cycle</li> 
+<li>Estimate and scope development work</li> 
+<li>Produce documentation of code functionality and features consistently throughout development cycle</li> 
+<li>Participate proactively in requirements analysis and design reviews</li> 
+<li>Perform peer code reviews to discover issues and recommend changes that improves software quality</li> 
+<li>Work with hardware vendors/manufacturers on industrial motherboard, panels, PCBs and control system boards</li> 
+<li>VFD application programming and support</li> 
+<li>Keeping positive attitude and contribute to team effort</li> 
+<li>Perform additional software development duties as required</li> 
+</ul> 
+</li> 
+<li>Produce quality software documentation: 
+<ul> 
+<li>Design</li> 
+<li>Unit test plans</li> 
+<li>Release notes</li> 
+</ul> 
+</li> 
+<li>Assist in testing the developed software and provide support for field problems</li> 
+</ul> 
+
+<h4 style=""color: red;""><strong>Personal Skills:</strong></h4> 
+
+<ul> 
+<li>Work as part of a team with minimal supervision 
+<ul> 
+<li>Positive, proactive attitude</li> 
+<li>Ability to stay focused on tasks and meet deadlines</li> 
+</ul> 
+</li> 
+<li>Excellent problem solving skills</li> 
+</ul> 
+
+<h4 style=""color: red;""><strong>Qualifications Include:</strong></h4> 
+
+<ul> 
+<li>Bachelor's degree in Computer Science or equivalent</li> 
+<li>Proficient in Embedded software development, C/C++ programming</li> 
+<li>Experience with Eclipse IDE and GCC (GNU) compiler</li> 
+</ul> 
+
+<h4 style=""color: red;""><strong>Work Arrangement:</strong></h4> 
+<p>Hybrid</p> 
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://careers.dovercorporation.com/job/Bengaluru-Software-Engineer-KA/1199276901/?feedId=385633?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,C,,20490
+Software Engineer I,no,0,2,5,7,5/6/2025,"<h4 style=""color: red;""><strong>What our Backend Engineers have done:</strong></h4> 
+
+<ul> 
+<li>Engineers at Bloomreach are rock-star developers who own and lead the design and development of critical technology components.</li> 
+<li>Bloomreach Product Search - industry-leading eCommerce domain search engine. It is self-learning, has semantic understanding capabilities, and offers advanced personalization features.</li> 
+<li>Bloomreach Recommendations and Pathways - a capability that caters intelligently selected products to individual customers utilizing advanced scalable recommendation algorithms.</li> 
+<li>Distributed and highly scalable content indexing system which caters to some of the largest eCommerce retailers in the world. Read this interesting article for milestones achieved by Bloomreach: 
+<a href=""https://www.Bloomreach.com/en/news/2020/Bloomreach-hits-major-milestones.html"" target=""_blank"">https://www.Bloomreach.com/en/news/2020/Bloomreach-hits-major-milestones.html</a> 
+</li> 
+<li>Massively parallel crawler and parser that is able to crawl and index 3,600 QPS (:300 million pages per day).</li> 
+<li>High throughput NoSQL database and search systems which scale for billions of interactions and millions of products (you need this when you are representing 25% of all retail eCommerce experiences in the US and UK)</li> 
+<li>Real-time autocomplete system which provides suggestions faster than the blink of an eye.</li> 
+<li>Distributed, highly scalable, and robust configuration management system which acts as a central repository for all Bloomreach products (because every merchant is different).</li> 
+<li>Suite of automated deployment tools that enable single click E2E testing and multi-system deployment (so everyone else can just worry about code!)</li> 
+<li>Filed multiple patents in areas such as search algorithms, systems, and SEO.</li> 
+<li>Contributor to the Open Source community, be it through code, or community events, or even regular meetups</li> 
+</ul> 
+
+<h4 style=""color: red;""><strong>What you'll bring:</strong></h4> 
+
+<ul> 
+<li>A B.Tech/M.Tech or equivalent degree in Computer Science or a related field</li> 
+<li>1 years of experience building software solutions in a corporate or start up</li> 
+<li>Experience with maintaining distributed systems at significant scale in a production environment</li> 
+<li>Extensive background in algorithms and hands on coding experience</li> 
+<li>Working with backend first languages, such as Java, Scala, Python, etc.</li> 
+<li>Worked with large-scale data processing (e.g. Spark, Hadoop, Mapreduce, Airflow)</li> 
+</ul> 
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://job-boards.greenhouse.io/bloomreach/jobs/4748830?gh_src=f6a758901us?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,"Java, Python",,20491
+Trainee Software Engineer,no,0,2,3.5,4.5,5/6/2025,"<h4 style=""color: red;""><strong>Job Overview</strong></h4> 
+<p>We are seeking a motivated Trainee Software Engineer to join our team in Bangalore Urban. This full-time junior position offers the opportunity to develop your skills in a dynamic IT environment. As a trainee, you will work closely with experienced engineers on digital solutions and IT service projects.</p> 
+
+<h4 style=""color: red;""><strong>Qualifications And Skills</strong></h4> 
+<ul> 
+<li>Proficiency in Node.js (Mandatory skill) is essential to execute backend development tasks effectively and efficiently.</li> 
+<li>Strong understanding of JavaScript (Mandatory skill), enabling seamless integration and development of various applications.</li> 
+<li>Experience with powerapps (Mandatory skill) to support the development of enterprise-level applications swiftly and accurately.</li> 
+<li>Familiarity with React.js, allowing you to construct user interfaces and enhance user experience through component-based architecture.</li> 
+<li>Understanding of lowcode/nocode platforms, permitting rapid application development without extensive coding requirements.</li> 
+<li>Ability to work in a team environment, exhibiting excellent communication skills and a collaborative mindset.</li> 
+<li>Eagerness to learn and grow within the IT services industry, showing adaptability and a proactive approach to problem-solving.</li> 
+<li>Basic knowledge of IT services and operations, supporting your ability to integrate new technologies into existing systems effectively.</li> 
+</ul> 
+
+<h4 style=""color: red;""><strong>Roles And Responsibilities</strong></h4> 
+<ul> 
+<li>Collaborate with senior software engineers to develop and implement backend solutions using Node.js.</li> 
+<li>Assist in creating seamless user interfaces with JavaScript and React.js, enhancing the overall user experience.</li> 
+<li>Contribute to the design and development of enterprise applications using powerapps and lowcode/nocode platforms.</li> 
+<li>Participate in team meetings and project discussions, providing insights and learning from experienced professionals.</li> 
+<li>Participate in the troubleshooting and debugging processes to ensure optimal application performance and reliability.</li> 
+<li>Stay updated with the latest industry trends and incorporate them into practice to streamline development processes.</li> 
+<li>Assist with maintaining and documenting technical specifications, ensuring accuracy and compliance with industry standards.</li> 
+<li>Contribute to the company's research and development initiatives, exploring innovative solutions to enhance service delivery.</li> 
+</ul> 
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"React, JavaScript",,20492
+Software Engineer I - React.js/Next.js,no,0,2,4.5,5.2,5/6/2025,"<h4 style=""color: red;""><strong>Responsibilities</strong></h4> 
+
+<h4><strong>React Development :</strong></h4> 
+<ul> 
+<li>Utilize your experience with Next.js and React to contribute to the development and enhancement of web applications.</li> 
+<li>Collaborate with the team to implement efficient and maintainable code using React.js and Redux as required.</li> 
+</ul> 
+
+<h4><strong>JavaScript, HTML5, And CSS Mastery</strong></h4> 
+<ul> 
+<li>Demonstrate a solid understanding of JavaScript, HTML5, and CSS to create responsive and visually appealing user interfaces.</li> 
+<li>Ensure cross-browser compatibility and responsiveness of web applications.</li> 
+</ul> 
+
+<h4><strong>Browser-based Debugging And Performance Testing</strong></h4> 
+<ul> 
+<li>Utilize your proficiency in browser-based debugging techniques to identify and resolve issues in the codebase.</li> 
+<li>Conduct performance testing and optimization to enhance the overall user experience.</li> 
+</ul> 
+
+<h4><strong>User Interface Design And Wireframing</strong></h4> 
+<ul> 
+<li>Apply your experience in user interface design to contribute creative and user-friendly solutions.</li> 
+<li>Utilize technical design and wireframing tools to translate concepts into tangible and visually appealing designs.</li> 
+</ul> 
+
+<h4><strong>Git And Agile Development Practices</strong></h4> 
+<ul> 
+<li>Work with Git for version control, ensuring the integrity and collaboration of the codebase.</li> 
+<li>Contribute to Agile development practices, participating in sprint planning, daily stand-ups, and sprint reviews.</li> 
+</ul> 
+
+<h4 style=""color: red;""><strong>Requirements</strong></h4> 
+<ul> 
+<li>Solid understanding of JavaScript, HTML5, and CSS</li> 
+<li>Experience with Typescript is good to have.</li> 
+<li>Proficiency with browser-based debugging and performance testing</li> 
+<li>Experience with user interface design, technical design, and wireframing tools</li> 
+<li>Familiarity with Git and Agile development practices</li> 
+<li>Bachelor's degree or higher in computer science or a related field would be beneficial but not required</li> 
+<li>Proficiency with frontend AI based vibe coding is an additional plus.</li> 
+</ul> 
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"React, JavaScript, HTML, CSS",,20493
+Junior Software Developer in Bangalore,no,0,2,3.6,4.6,5/6/2025,"<h4 style=""color: red;""><strong>Key Responsibilities</strong></h4> 
+<ul> 
+<li>Assist in the design, development, and maintenance of software applications</li> 
+<li>Write clean, efficient, and well-documented code using modern programming languages (e.g., Java, Python, C#, etc.)</li> 
+<li>Collaborate with cross-functional teams, including designers, testers, and product manager,s to implement new features and functionalities</li> 
+<li>Troubleshoot, debug, and resolve software defects and issues</li> 
+<li>Participate in code reviews and follow best coding practices</li> 
+<li>Stay updated with the latest technologies, programming languages, and development trends</li> 
+<li>Contribute to improving the software development process by suggesting improvements</li> 
+</ul> 
+
+<h4 style=""color: red;""><strong>Qualifications</strong></h4> 
+<ul> 
+<li>Bachelor's degree in computer science, information technology, or a related field (or equivalent experience)</li> 
+<li>Familiarity with at least one programming language such as Java, Python, C++, or JavaScript</li> 
+<li>Basic understanding of object-oriented programming and software development principles</li> 
+<li>Strong problem-solving skills and an ability to learn quickly</li> 
+<li>Good communication and teamwork skills</li> 
+<li>Familiarity with version control systems like Git is a plus</li> 
+<li>Exposure to cloud platforms such as AWS, Azure, or Google Cloud</li> 
+<li>Understanding of databases (SQL/NoSQL)</li> 
+<li>Familiarity with Agile methodologies</li> 
+<li>Knowledge of front-end technologies like HTML, CSS, and JavaScript</li> 
+</ul>",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"HTML, CSS, Python, SQL, JavaScript",,20494
+Front-end Developer,no,0,2,2.5,3.2,5/6/2025,"<h4 style=""color: red;""><strong>About the job</strong></h4> 
+<p>We're looking for a creative Front-end Developer to bring innovative, visually appealing web interfaces to life. In this role, you'll use modern web technologies to craft delightful, responsive user experiences while collaborating closely with a supportive design team. If you love blending art with code and making the web a brighter place, we'd love to hear from you!</p> 
+
+<h4 style=""color: red;""><strong>Responsibilities</strong></h4> 
+<ul> 
+<li>Collaborate joyfully with designers and team members to create engaging, pixel-perfect user interfaces.</li> 
+<li>Write clean, efficient, and accessible code that brings our creative ideas to life on the web.</li> 
+<li>Keep our websites responsive and fun on every device, ensuring a delightful experience for everyone.</li> 
+<li>Integrate seamlessly with back-end services, making data flow effortlessly and securely.</li> 
+<li>Stay curious and explore the latest front-end trends to keep our projects fresh and innovative.</li> 
+<li>Troubleshoot and resolve any issues with a proactive, can-do spirit that keeps our users smiling.</li> 
+<li>Share your insights and work collaboratively to continuously improve our digital experience.</li> 
+</ul> 
+
+<h4 style=""color: red;""><strong>Qualifications</strong></h4> 
+<ul> 
+<li>Passionate about designing user-friendly and visually engaging web experiences.</li> 
+<li>Proficient in HTML, CSS, and JavaScript, along with modern frameworks like React or Vue.</li> 
+<li>Always eager to learn and stay up-to-date with the latest front-end trends.</li> 
+<li>Comfortable collaborating with designers and back-end developers to bring ideas to life.</li> 
+<li>Experienced in creating responsive, performance-optimized layouts for all devices.</li> 
+<li>Dedicated to writing clean, maintainable code with attention to detail.</li> 
+<li>Excited to contribute creative solutions and a positive, team-oriented spirit.</li> 
+</ul> 
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://supportfinity.com/company/SupportFinity/careers/front-end-developer/FT-425859B4?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,"HTML, CSS, React, JavaScript",,20495
+Associate Software Developer,no,0,2,4.1,5.2,5/6/2025,"<h4 style=""color: red;""><strong>Key Responsibilities</strong></h4> 
+<ul> 
+<li>Develop web applications using React and Redux</li> 
+<li>Integrate backend services</li> 
+<li>Collaborate with the team to manage optimize and customize multiple web applications</li> 
+<li>Create and maintain technical documentation</li> 
+<li>Design insightful dashboards for clients</li> 
+<li>Create APIs and API documentation for front-end developers</li> 
+<li>Work with development teams and product managers to ideate software solutions</li> 
+<li>Design client-side and server-side architecture</li> 
+<li>Build the front-end of applications through appealing visual design</li> 
+<li>Develop and manage well-functioning databases and applications</li> 
+<li>Test software to ensure responsiveness and efficiency</li> 
+<li>Troubleshoot debug and upgrade software</li> 
+<li>Create security and data protection settings</li> 
+<li>Build features and applications with a mobile responsive design</li> 
+<li>Write technical documentation</li> 
+<li>Collaborate with data scientists and analysts to improve software</li> 
+</ul> 
+",Full Time,IT,Hyderabad,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,React,,20496
+Machine Learning Engineer,no,0,2,2.5,3.2,5/6/2025,"<h4 style=""color: red;""><strong>Key Responsibilities</strong></h4> 
+<ul> 
+<li><strong>Designing and Developing ML Systems:</strong> This involves creating the architecture and infrastructure for machine learning models and pipelines.</li> 
+<li><strong>Implementing ML Algorithms:</strong> ML engineers translate data science models and algorithms into functional code, often using frameworks like TensorFlow or PyTorch.</li> 
+<li><strong>Performing Statistical Analyses:</strong> They use statistical methods to analyze data, evaluate model performance, and improve the overall system.</li> 
+<li><strong>Conducting Experiments:</strong> They design and execute experiments to test and refine ML models, ensuring they meet performance requirements.</li> 
+<li><strong>Model Deployment:</strong> ML engineers deploy models into production environments, making them accessible and functional for real-world use cases.</li> 
+<li><strong>Monitoring and Maintaining Systems:</strong> They monitor the performance of deployed models and maintain the systems to ensure optimal functionality.</li> 
+<li><strong>Data Preparation:</strong> This includes cleaning, transforming, and preparing data for model training, ensuring data quality and relevance.</li> 
+<li><strong>Model Evaluation:</strong> They assess model performance using various metrics to ensure accuracy, efficiency, and reliability.</li> 
+<li><strong>Collaboration:</strong> They work closely with data scientists, software engineers, and other stakeholders to achieve project goals.</li> 
+</ul> 
+",Full Time,IT,Chennai,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,Python,,20497
