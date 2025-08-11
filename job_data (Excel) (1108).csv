@@ -1,0 +1,1308 @@
+JobTitle,isSaved,MinimumExperience,MaximumExperience,MinSalary,MaxSalary,CreationDate,Description,EmployeeType,IndustryType,Location,MinimumQualification,Promote,Specialization,JobStatus,VisitorCount,job_url,SkillsRequired,ScreeningQuestions,job_recruiter_recruiter_id
+Software Engineer (Front End - React.js),no,0,2,2.7,3.5,8/11/2025,"<h4 style=""color: red;"">About The Job</h4> 
+<p> 
+We are looking for a talented Frontend Developer with expertise in React to join our Mangalore-based team. You will create engaging, responsive user interfaces for our product, ensuring a seamless and intuitive user experience. 
+</p> 
+<h4 style=""color: red;"">Responsibilities:</h4> 
+<ul> 
+<li>Develop and maintain user interfaces using React for high-quality, responsive designs.</li> 
+<li>Collaborate with backend developers to integrate APIs for smooth data flow.</li> 
+<li>Migrate the existing codebase from Angular to React (Next.js)</li> 
+<li>Optimize frontend performance and ensure cross-browser compatibility.</li> 
+<li>Write clean, modular, and testable code adhering to best practices.</li> 
+<li>Work with designers to translate UI/UX wireframes into functional components.</li> 
+<li>Participate in agile ceremonies, including sprint planning and code reviews.</li> 
+<li>Debug and resolve frontend issues to enhance user experience.</li> 
+<li>Stay updated on React ecosystem trends and best practices.</li> 
+</ul> 
+<h4 style=""color: red;"">Requirements:</h4> 
+<ul> 
+<li>1 year of experience in a product company or 1.5-2 years in service-based companies with product projects, using Next.js/React.</li> 
+<li>Strong proficiency in JavaScript, HTML, Tailwind CSS, and Next.js (React ecosystem) (e.g., Redux, Hooks).</li> 
+<li>Experience with RESTful APIs and integrating backend services.</li> 
+<li>Familiarity with version control (e.g., Git) and modern build tools (e.g., Webpack, Vite).</li> 
+<li>Understanding of UI/UX principles and responsive design.</li> 
+<li>Ability to understand and work effectively with large existing codebases.</li> 
+<li>Strong communication and teamwork skills.</li> 
+<li>Bachelor's degree in Computer Science, Engineering, or related field (or equivalent experience).</li> 
+</ul> 
+<h4 style=""color: red;"">Secondary Skills:</h4> 
+<p>Basic backend development (e.g., Node.js).</p> 
+<h4 style=""color: red;"">Why Join Us?</h4> 
+<p>Contribute to innovative products in a vibrant tech hub with opportunities for skill development and career growth.</p> ",Full Time ,IT ,Bangalore ,B.Tech,No,CSE,Active,0,https://www.serproconsulting.com/jobs/software-engineer-front-end-reactjs-job-id-fdr-mng-002-5?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,"HTML, CSS, React, JavaScript",,20644
+Full Stack Developer,no,0,2,2.5,3.2,8/11/2025,"<h4 style=""color: red;"">About the job</h4> 
+<p> 
+We're not just hiring a Dev, We're looking for a Co-builder. 
+</p> 
+<p> 
+At BOSCLE, we're building futuristic Saas tools that modern businesses actually love. From salons to startups, we're designing lean, powerful software that feels like Apple and works like magic. 
+</p> 
+<p> 
+If you're tired of boring codebases, static teams, or ""just-another"" projects, this one's for you. We're growing fast and we're looking for someone who's ready to scale with us. 
+</p> 
+<h4 style=""color: red;"">What You'll Do:</h4> 
+<ul> 
+<li>Build and maintain web applications using Laravel (backend) and React.js (frontend)</li> 
+<li>Collaborate closely with the founder and design team</li> 
+<li>Ensure clean, testable, scalable code</li> 
+<li>Optimize performance, handle APis, and ship fast</li> 
+</ul> 
+<h4 style=""color: red;"">You Should Be:</h4> 
+<ul> 
+<li>2+ years of hands-on experience in Laravel (PHP)</li> 
+<li>Solid command over React.js, REST APis, and GITHUB version control</li> 
+<li>Someone who writes clean, modular code</li> 
+<li>Problem-solvers who can think like a founder</li> 
+<li>Familiarity with Tailwind is a Must</li> 
+<li>Must be comfortable with GitHub version control</li> 
+<li>Bonus: Node.js, or DevOps setups / Angular</li> 
+</ul> 
+<h4 style=""color: red;"">Bonus If:</h4> 
+<ul> 
+<li>Experience in SaaS product development</li> 
+<li>Knowledge of CI/CD pipelines, Docker, or basic DevOps</li> 
+</ul>",Full Time ,IT ,Chennai,B.Tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"Angular, React, JavaScript",,20645
+React Developer,no,0,2,7,10,8/11/2025,"<h4 style=""color: red;"">About the job</h4> 
+<p> 
+We are looking for a great JavaScript developer who is proficient with React.js. Your primary focus will be on developing user interface components and implementing them following well-known React.js workflows (such as Flux or Redux). You will ensure that these components and the overall application are robust and easy to maintain. You will coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and quality product is important. 
+</p> 
+<h4 style=""color: red;"">Responsibilities</h4> 
+<ul> 
+<li>Developing new user-facing features using React.js</li> 
+<li>Building reusable components and front-end libraries for future use</li> 
+<li>Translating designs and wireframes into high quality code</li> 
+<li>Optimizing components for maximum performance across a vast array of web-capable devices and browsers</li> 
+</ul> 
+<h4 style=""color: red;"">Skills</h4> 
+<ul> 
+<li>Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model</li> 
+<li>Thorough understanding of React.js and its core principles</li> 
+<li>Experience with popular React.js workflows (such as Flux or Redux)</li> 
+<li>Familiarity with newer specifications of EcmaScript</li> 
+<li>Experience with data structure libraries (e.g., Immutable.js)</li> 
+<li>Knowledge of isomorphic React is a plus</li> 
+<li>Familiarity with RESTful APIs</li> 
+<li>Knowledge of modern authorization mechanisms, such as JSON Web Token</li> 
+<li>Familiarity with modern front-end build pipelines and tools</li> 
+<li>Experience with common front-end development tools such as Babel, Webpack, NPM, etc.</li> 
+<li>Ability to understand business requirements and translate them into technical requirements</li> 
+<li>A knack for benchmarking and optimization</li> 
+<li>Familiarity with code versioning tools {such as Git, SVN, and Mercurial}</li> 
+</ul> 
+<h4 style=""color: red;"">Job Location</h4> 
+<p>Remote or work from home</p> 
+",Full Time ,IT ,Hyderabad,B.Tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"React, JavaScript",,20646
+Frontend Developer ,no,0,2,2.5,3.2,8/11/2025,"<h4 style=""color: red;"">About the job</h4> 
+<p> 
+This is a full-time on-site role for a Frontend Developer located in Chennai. The Frontend Developer will be responsible for designing and developing user interfaces, ensuring responsiveness, and optimizing web applications for maximum speed and scalability. Daily tasks include collaborating with back-end developers and designers, translating design wireframes into high-quality code, and ensuring the technical feasibility of UI/UX designs. 
+</p> 
+<h4 style=""color: red;"">Qualifications</h4> 
+<ul> 
+<li>Skills in Front-End Development and Responsive Web Design</li> 
+<li>Experience with Back-End Web Development and Web Development</li> 
+<li>Proficiency in software development practices and principles</li> 
+<li>Strong problem-solving skills and attention to detail</li> 
+<li>Excellent communication and teamwork abilities</li> 
+<li>Familiarity with version control systems like Git</li> 
+<li>Bachelor's degree in Computer Science, Information Technology, or a related field</li> 
+<li>Experience with modern JavaScript frameworks (e.g., React, Angular, or Vue.js) is a plus</li> 
+</ul>",Full Time ,IT ,Chennai,B.Tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"Angular, React, JavaScript",,20647
+Associate Frontend Engineer ,no,0,2,3.5,4.2,8/11/2025,"<h4 style=""color: red;"">Job Summary</h4> 
+<p> 
+We are looking for a passionate and motivated Associate Frontend Engineer with 1 to 2 years of experience to join our product engineering team. In this role, you will work closely with experienced developers and designers to build seamless, performant, and user-friendly interfaces using modern JavaScript frameworks. You’ll gain hands-on experience in building production-ready web applications and learn how to deliver high-quality UI at scale. 
+</p> 
+<p> 
+This opportunity is ideal for individuals who are early in their careers and eager to grow through real-world development, mentorship, and continuous learning. 
+</p> 
+<p> 
+Website: https://www.thealteroffice.com/about 
+</p> 
+<h4 style=""color: red;"">Key Responsibilities</h4> 
+<ul> 
+<li>Assist in developing and maintaining responsive, accessible, and performant web user interfaces.</li> 
+<li>Work with modern JavaScript frameworks/libraries such as React, Vue, or Angular to build modular, reusable components.</li> 
+<li>Translate UI/UX designs from tools like Figma into pixel-perfect, production-quality code.</li> 
+<li>Write clean, maintainable, and well-documented HTML, CSS, and JavaScript (ES6+).</li> 
+<li>Collaborate with product managers, backend engineers, and designers to deliver complete, integrated features.</li> 
+<li>Learn and apply best practices in state management, component-driven development, and API integration.</li> 
+<li>Participate in code reviews, understand and follow design systems, and contribute to a culture of code quality.</li> 
+<li>Debug and resolve cross-browser, cross-device, and performance-related UI issues.</li> 
+<li>Use tools such as Git, CI/CD pipelines, and frontend build tools (e.g., Webpack, Vite) as part of your daily workflow.</li> 
+<li>Begin working with TypeScript, Tailwind CSS, and popular UI libraries (e.g., Material UI, Bootstrap) to enhance development efficiency and consistency.</li> 
+<li>Follow accessibility guidelines and responsive design principles, ensuring your UI works for all users.</li> 
+<li>Gain exposure to linting tools, formatters, testing libraries (unit/integration/e2e), and performance profiling using browser dev tools.</li> 
+</ul> 
+<h4 style=""color: red;"">Requirements</h4> 
+<ul> 
+<li>1 to 2 years of experience in frontend development through internships, academic projects, freelance work, or personal side projects.</li> 
+<li>Solid understanding of HTML, CSS, and JavaScript (ES6+) fundamentals. Familiarity with at least one modern JavaScript framework (React, Vue, Angular).</li> 
+<li>Understanding of version control systems like Git and ability to collaborate in a team-oriented development workflow.</li> 
+<li>Willingness to learn and apply best practices in UI performance, security, accessibility, and maintainability.</li> 
+<li>Strong problem-solving abilities, attention to detail, and eagerness to grow through mentorship and feedback.</li> 
+<li>Effective communication skills and ability to work in a fast-paced, agile team environment.</li> 
+</ul> 
+<h4 style=""color: red;"">Skills</h4> 
+<p>html,javascript,ci/cd,es6,react,vue,javascript (es6+),angular,typescript,git,webpack,css,bootstrap,tailwind css,vite,material ui</p>",Full Time ,IT ,Bangalore ,B.Tech,No ,CSE,Active,0,https://www.bitlabs.in/jobs,"Angular, React, JavaScript",,20648
+Frontend Developer ,no,0,2,3.5,4.2,8/11/2025,"<h4 style=""color: red;"">Role Description</h4> 
+<p> 
+Should be primarily experienced in backend development and should be able to design, create, and implement a solution that is domain-driven, abstracted, business-oriented, and scalable from scratch, while also able to debug & fix issues. 
+</p> 
+<h4 style=""color: red;"">Core Skills:</h4> 
+<h5 style=""color: red;"">Hard Skills:</h5> 
+<ul> 
+<li>C#/.NET (Primary), Azure Functions, T-SQL/SQL Server (inline SQL), REST APIs, Dependency Injection, OpenAPI documentation.</li> 
+</ul> 
+<h5 style=""color: red;"">Nice to have:</h5> 
+<ul> 
+<li>JWT, Azure APIM, Azure Data Factory, Azure Service Bus, Redis Caching, CI/CD YAML, Advanced Git</li> 
+</ul> 
+<h5 style=""color: red;"">Competencies:</h5> 
+<ul> 
+<li>API Development: Strong ability to build clean, well-documented, and secure REST APIs that adhere to our architectural standards.</li> 
+<li>Database Interaction: Proficient in writing performant SQL queries and managing database schemas.</li> 
+<li>Quality First: A commitment to writing unit and integration tests as part of their daily workflow, using frameworks like xUnit and/or NUnit.</li> 
+<li>Reliability: Focuses on building reliable services with robust error handling, logging, and monitoring.</li> 
+</ul>",Full Time ,IT ,Bangalore ,B.Tech,No,CSE,Active,0,https://www.capco.com/en/Careers/Job%20Search/Office%20Detail?gh_jid=7154587?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,"C#, SQL, .Net",,20649
+CSS HTML Developer Intern,no,0,2,1.2,1.8,8/11/2025,"<h4 style=""color: red;"">About the Role</h4> 
+<p> 
+Lead India Company is hiring a creative and detail-oriented HTML/CSS Developer Intern to join our front-end development team. This internship is ideal for individuals passionate about crafting beautiful, responsive web interfaces and eager to sharpen their skills through real-world projects. 
+</p> 
+<h4 style=""color: red;"">Responsibilities</h4> 
+<ul> 
+<li>Convert UI/UX designs into responsive web pages using HTML5 and CSS3</li> 
+<li>Collaborate with developers and designers to implement clean, efficient, and user-friendly interfaces</li> 
+<li>Ensure cross-browser compatibility and mobile responsiveness</li> 
+<li>Optimize page performance and load times</li> 
+<li>Assist in website maintenance, updates, and enhancements</li> 
+</ul> 
+<h4 style=""color: red;"">Requirements</h4> 
+<ul> 
+<li>Solid understanding of HTML5, CSS3, and responsive web design principles</li> 
+<li>Familiarity with version control tools like Git is a plus</li> 
+<li>Basic knowledge of JavaScript is a bonus</li> 
+<li>Strong attention to detail and willingness to learn modern UI trends</li> 
+<li>Ability to work independently and meet deadlines</li> 
+</ul> 
+<h4 style=""color: red;"">What You'll Gain</h4> 
+<ul> 
+<li>Hands-on experience with real client projects</li> 
+<li>Exposure to modern development workflows and tools</li> 
+<li>Internship Certificate upon successful completion</li> 
+<li>Opportunity for a full-time role based on performance</li> 
+</ul> 
+<p> 
+Lead India Company offers a supportive environment where aspiring front-end developers can grow their skills and contribute to impactful digital experiences. 
+</p> 
+",Full Time ,IT ,Bangalore ,B.Tech,No ,CSE,Active,0,https://www.bitlabs.in/jobs,"HTML, CSS",,20650
+Junior Web Developer,no,0,2,2.5,3.2,8/11/2025,"<h4 style=""color: red;"">About the job</h4> 
+<p> 
+The Junior Web Developer will be responsible for developing and maintaining web applications, ensuring the technical feasibility of UI/UX designs, optimizing applications for maximum speed and scalability, and collaborating with other team members and stakeholders. The role also involves regular code reviews and troubleshooting to enhance application performance and user experience. 
+</p> 
+<h4 style=""color: red;"">Qualifications</h4> 
+<ul> 
+<li>Proficiency in Front-End Development and Web Design</li> 
+<li>Skills in Back-End Web Development</li> 
+<li>Strong experience with Web Development and Programming</li> 
+<li>Excellent problem-solving and debugging skills</li> 
+<li>Strong communication and collaboration skills</li> 
+<li>Ability to work independently and remotely</li> 
+<li>Bachelor's degree in Computer Science or a related field is preferred</li> 
+<li>Experience with popular web development frameworks and tools is a plus</li> 
+</ul> 
+",Full Time ,IT ,Bangalore ,B.Tech,No ,CSE,Active,0,https://www.bitlabs.in/jobs,"HTML, CSS, JavaScript",,20651
+Developer,no,0,2,10,12,8/11/2025,"<h4 style=""color: red;"">About the Role</h4> 
+<p> 
+You'll be working as a Software Developer on our Security Services & Customer Experience (S2CX) Team, responsible for delivering the cloud-based software that helps solve the real-world security problems that IT professionals face. We develop the internal tools used by the security services team to keep our customers safe and informed, as well as the external web applications used by our customers. Our goal is to share the value Arctic Wolf provides to our customers and to improve and scale the abilities of our security engineers. 
+</p> 
+<h4 style=""color: red;"">Responsibilities</h4> 
+<ul> 
+<li>Work with team members to deliver key features that improve our service offerings.</li> 
+<li>Participate in the full software development life cycle.</li> 
+<li>Build well-designed, testable, efficient, secure code.</li> 
+<li>Perform code and pull request reviews to ensure code quality, maintainability, and adherence to team standards</li> 
+<li>Integrate software components into a fully functional software system.</li> 
+<li>Document and maintain software functionality.</li> 
+</ul> 
+<p> 
+We value a culture of sharing and learning, so every member of the team has the opportunity to share their work with the entire department during our monthly R&D Demos. Once a year we hold a department-wide Hackathon, teaming up across all R&D teams over four days to collaborate and build cool ideas outside the normal project scope. While innovation is the focus, some of these ideas do make it into our products. 
+</p> 
+<h4 style=""color: red;"">About You</h4> 
+<p> 
+You enjoy tackling technical challenges and care about writing quality, maintainable code. Collaborating with cross-functional teams excites you, and you believe in testing as a fundamental part of development. Colleagues appreciate your willingness to learn and your thoughtful approach to problem-solving. 
+</p> 
+<h4 style=""color: red;"">Here Are Some Of The Core Technologies We Use And Teach Across Our S2CX Teams. You Should Have 2+ Years Of Experience In The Following Areas</h4> 
+<ul> 
+<li>React/Typescript</li> 
+<li>Go (or other modern object-oriented languages)</li> 
+<li>AWS (or Azure/Google Cloud)</li> 
+<li>Git</li> 
+<li>Docker</li> 
+<li>Kubernetes</li> 
+</ul> 
+<p> 
+NOTE: Looking for Bangalore Candidate Only 
+</p> 
+<p> 
+Even if you haven't worked with all of our specific technologies, you bring a strong foundation in software development and a passion for learning new things. You have excellent communication skills and a keen interest in great design and coding practices. 
+</p> 
+<p> 
+You have a bachelor's degree in Computer Science, Engineer or a related field. 
+</p> 
+<p> 
+Previous security experience is preferred but not required. We provide all the cybersecurity training you need during onboarding and on-the-job training. 
+</p> 
+",Full Time ,IT ,Bangalore ,B.Tech,No,CSE,Active,0,https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Developer_R25_989-1?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,React,,20652
+Software Engineer - Hyderabad,no,0,2,5,7,8/11/2025,"<h4 style=""color: red;"">Position Overview</h4> 
+<p> 
+The Software Engineer role within e2open is an entry level position within the Development team, creating and updating programs to meet the needs of our customers. Using a variety of software languages, tools and techniques, the Software Engineer delivers high quality products according to the specifications outlined by Product Management according to the standards set across the company. 
+</p> 
+<h4 style=""color: red;"">Technical Qualifications:</h4> 
+<p>B.Tech.</p> 
+<p>Java, Groovy, Oracle SQL/PL SQL, Protobuf, Python, XML, Json, GIT, Jira</p> 
+<h4 style=""color: red;"">RESPONSIBILITES:</h4> 
+<p> 
+The Software Engineer position within e2open is defined by the ability to support these responsibilities: 
+</p> 
+<h5 style=""color: red;"">Technology</h5> 
+<ul> 
+<li>Apply a basic knowledge of programming languages for software development</li> 
+<li>Demonstrate a basic knowledge of database structures, queries, and performance</li> 
+<li>Exhibit a basic familiarity of complex data structures, transformations, derivations, serialization, queuing theory, message handling, buffer management, threading, and other similar software constructs</li> 
+<li>Understand the use of Open Source including licensing models, constraints, and proper incorporation</li> 
+<li>Show experience with User Interface/Experience design, testing, constraints, validation, technologies</li> 
+<li>Implement API design with security, backwards compatibility, validation, error handling…</li> 
+<li>Practice interface security, data encryption, ethical hacking, and denial of service attack prevention</li> 
+<li>Employ a basic understanding of operating system, file system, virtual machine management, maintenance, and performance management</li> 
+<li>Understand basic network configuration including firewall usage, router management, load balancing</li> 
+<li>Leverage deployment technologies including Docker, Chef, Terraform</li> 
+<li>Exercise software build technologies including source control, build and branching, automation</li> 
+</ul> 
+<h5 style=""color: red;"">Development</h5> 
+<ul> 
+<li>Demonstrate the ability to cross train and learn new technologies</li> 
+<li>Design, implement and test enhancement feature requests to enhance product functionality as needed with minimal risk to existing product stability, reliability, and performance</li> 
+<li>Create unit tests and proactively validate all developed software</li> 
+<li>Contribute to design decisions on new features</li> 
+<li>Troubleshoot defects independently and cooperatively</li> 
+<li>Work with and assist other departments with any technical issues that arise</li> 
+<li>Follow best practices for security guidelines internally and in developed software</li> 
+<li>Implement product 'stories' to create software exceeding customer needs</li> 
+<li>Maintain existing components to improve performance and enhance functionality without regression</li> 
+</ul>",Full Time ,IT ,Hyderabad,B.Tech,No,CSE,Active,0,https://job-boards.eu.greenhouse.io/e2openllc/jobs/4645687101?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,"Java, SQL, Python",,20653
+Fresher Internship Training Program 2025,no,0,2,2.5,3.2,8/11/2025,"<h4 style=""color: red;"">About The Job</h4> 
+<p> 
+Kickstart Your Career with Oracle Cloud Applications Training! 
+</p> 
+<p> 
+We are inviting aspiring professionals from Hyderabad to join our Paid Internship Training Program in Oracle Cloud Applications: 
+</p> 
+<ul> 
+<li>Oracle Cloud SCM Functional</li> 
+<li>Oracle Cloud HCM Functional</li> 
+</ul> 
+<h4 style=""color: red;"">Program Details:</h4> 
+<ul> 
+<li>Duration: 15 Weeks</li> 
+<li>Mode: In-person Training ONLY</li> 
+<li>Interview Process: Face-to-Face (Mandate)</li> 
+<li>Location: Hyderabad</li> 
+</ul> 
+<h4 style=""color: red;"">Eligibility Criteria:</h4> 
+<ul> 
+<li>Education: B.E / B.Tech / M.Tech / MSc/ MCA / MBA graduates ONLY</li> 
+<li>2025 passed out graduates are preferred</li> 
+<li>Candidates must demonstrate strong, clear, and professional communication abilities</li> 
+<li>Passion for technology and willingness to learn</li> 
+</ul> 
+<p> 
+This is an excellent opportunity to gain hands-on experience and build a strong foundation in one of the most in-demand enterprise technologies. 
+</p> 
+",Full Time ,IT ,Hyderabad,B.Tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"Java, SQL, HTML, CSS",,20654
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
